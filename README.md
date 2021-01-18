@@ -9,3 +9,5 @@
 ## Déploiement
 
 * Lien vers le site déployé sur Netlify : 
+
+https://exercice-netlify-18-01-21.netlify.app/
